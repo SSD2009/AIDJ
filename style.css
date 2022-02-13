@@ -1,0 +1,74 @@
+body{
+    background-size: cover;
+}
+
+.btn-warning{
+    width: 100%;
+    box-shadow: 10px 10px 10px white;
+    margin-top: 0;
+    font-size: 20px;
+}
+
+#note{
+    font-size: 15px;
+}
+
+.speed_div{
+    float: left;
+}
+
+.sound_div{
+    float: right;
+}
+
+.speedimg{
+    border-radius: 100px;
+    width:200px;
+}
+
+.soundimg{
+    border-radius: 100px;
+    width:200px;
+}
+
+.speedbtn{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.soundbtn{
+    font-size: 23px;
+    margin: 15px;
+}
+
+#footer{
+    background-color: gray;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    color: white;
+}
+
+#playbtn{
+    width:200px;
+    height: 75px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+#stopbtn{
+    width:200px;
+    height: 75px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+canvas{
+    background-color: black;
+    border: 5px solid white;
+    box-shadow: 10px 10px 10px beige;
+    border-radius: 20px;
+    width:200px;
+    margin-top:200px
+}
